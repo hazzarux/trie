@@ -1,3 +1,5 @@
+.cproject
+.project
 # Object files
 *.o
 *.ko
