@@ -1,0 +1,10 @@
+tea:thee
+ten:tien
+no:nee
+not:niet
+a:een
+an:een
+ant:mier
+at:bij
+atom:atoom
+yigit:test
